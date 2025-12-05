@@ -1,0 +1,1 @@
+A complete machine learning project built using Python, featuring EDA, data cleaning, handling missing values, outlier removal, feature encoding, scaling, and training an SVM classification model. This project demonstrates how raw data is transformed into a structured, high-quality dataset ready for accurate predictive modeling.
